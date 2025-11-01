@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447680021825",
+    "project_id": "ezbus-d14f2",
+    "storage_bucket": "ezbus-d14f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447680021825:android:191ae7b62f885a9dc24dc0",
+        "android_client_info": {
+          "package_name": "com.creativeapps.ezbusdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNW94tSFBMfxM6JmiC1ICWruNRptMZGxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
