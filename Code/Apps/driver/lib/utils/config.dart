@@ -4,9 +4,9 @@ class Config {
   /// -------------------- EDIT THIS WITH YOURS -------------------------------------------------
 
   // Edit WEB_URL with your url. Example: yourdomain.com
-  static String webUrl = "192.168.1.3:8000";
+  static String webUrl = "192.168.31.225:8000";
 static String serverUrl = "http://$webUrl";
-  static String socketUrl = "http://192.168.1.3";
+  static String socketUrl = "http://192.168.31.225";
   static String socketPort = "6001";
   // static String webUrl = "10.0.2.2/backend";
   // static String serverUrl = "http://$webUrl";
