@@ -28,3 +28,5 @@ Firebase:
 
 Firebase Core / Auth / Messaging (versions compatibles avec Flutter 3.24)
 google-services.json intégré
+
+L’application Customer App n’est pas incluse dans ce projet.
